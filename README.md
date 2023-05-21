@@ -1,4 +1,10 @@
 # Evan Guo
-## This should be h2
-### This should be h3
+## Projects 
+### Number Sliders
+#### Used A* Search algorithm along with Taxi Cab hueristic to solve Number Slider puzzles
+### Othello
+#### Used minimax and alpha beta pruning to play Othello
+#### Designed method to judge board state to utilize afore mentioned algorithms
+###
+## Test
 
