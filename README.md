@@ -1,8 +1,4 @@
-
-
-
-
-### Evan Guoo
+### Evan Guo
 # Projects 
 ### Number Sliders
 #### Used A* Search algorithm along with Taxi Cab hueristic to solve Number Slider puzzles
